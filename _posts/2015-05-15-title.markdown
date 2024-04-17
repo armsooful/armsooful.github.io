@@ -4,7 +4,8 @@ title:  a post with images
 date: 2015-05-15 21:01:00
 description: this is what included images could look like
 ---
-달은 스스로 빛나지 못하지만 태양의 빛을 받아 이를 반사하여 지구를 비춘다. 태양만큼의 밝은 빛은 아니지만 어두운 밤길을 밝히기에는 충분하다.
+달은 스스로 빛을 내지 못해 태양의 빛을 받아 이를 반사하여 지구를 비춘다.
+태양만큼의 밝은 빛은 아니지만 어두운 밤길을 밝히기에는 충분하다.
 
 <div class="img_row">
 	<img class="col three" src="/img/half_moon.jpg">
