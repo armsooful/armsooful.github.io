@@ -9,6 +9,9 @@ Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptow
 <div class="img_row">
 	<img class="col three" src="/img/half_moon.jpg">
 </div>
+<div class="col three caption">
+	harf moon
+</div>
 <div class="img_row">
 	<img class="col three" src="/img/9.jpg">
 </div>
