@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  a post with images
-date: 2015-05-15 21:01:00
+title:  밤 지키는 등이 되어
+date: 2024-04-16 23:00:00
 description: this is what included images could look like
 ---
 달은 스스로 빛을 내지 못해 태양의 빛을 받아 이를 반사하여 지구를 비춘다.
