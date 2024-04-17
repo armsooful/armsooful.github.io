@@ -2,7 +2,7 @@
 layout: post
 title:  밤 지키는 등이 되어
 date: 2024-04-16 23:00:00
-description: this is what included images could look like
+description: 달 사진
 ---
 달은 스스로 빛을 내지 못해 태양의 빛을 받아 이를 반사하여 지구를 비춘다.
 태양만큼의 밝은 빛은 아니지만 어두운 밤길을 밝히기에는 충분하다.
