@@ -11,7 +11,7 @@ description: 달 사진
 	<img class="col three" src="/img/half_moon.jpg">
 </div>
 <div class="col three caption">
-	harf moon
+	반달 : halfmoon : 半月
 </div>
 <div class="img_row">
 	<img class="col three" src="/img/9.jpg">
