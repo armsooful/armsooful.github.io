@@ -4,7 +4,7 @@ title:  a post with images
 date: 2015-05-15 21:01:00
 description: this is what included images could look like
 ---
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Fingerstache four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch.
+달은 스스로 빛나지 못하지만 태양의 빛을 받아 이를 반사하여 지구를 비춘다. 태양만큼의 밝은 빛은 아니지만 어두운 밤길을 밝히기에는 충분하다.
 
 <div class="img_row">
 	<img class="col three" src="/img/half_moon.jpg">
