@@ -5,7 +5,7 @@ description: "myforest's portfolio"
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://armsooful.github.io" # the base hostname & protocol for your site
 twitter_username: twitter_username
-github_username: github_username
+github_username: "armsooful"
 
 # Build settings
 markdown: kramdown
