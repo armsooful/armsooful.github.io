@@ -3,6 +3,8 @@ title: 붕어빵
 date: 2003-02-27 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
+image: /assets/img/2003-02-27-seokhyun_bungeobbang/bungeobbang.jpg
+
 ---
 
 어제 퇴근하는 길에 석현이에게서 전화가 왔다.  
