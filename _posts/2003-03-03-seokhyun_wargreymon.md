@@ -3,6 +3,7 @@ title: 오그리몬
 date: 2003-03-03 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
+image: /assets/img/2003-03-03-seokhyun_wargreymon/wargreymon.jpg
 ---
 
 어제는 회사로 석현이에게서 전화가 왔었다.  
