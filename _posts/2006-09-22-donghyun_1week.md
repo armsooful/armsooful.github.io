@@ -3,7 +3,6 @@ title: 1주일[동현]
 date: 2006-09-22 00:00:00 +09:00
 categories: [석현동현의 星,둘째별 동현]
 tags: [육아일기]
-image: /assets/img/2006-09-22-donghyun_1week/donghyun_1week.jpg
 ---
 
 ![동현 1주일](/assets/img/2006-09-22-donghyun_1week/donghyun_1week.jpg){: w="700" h="400" .center .normal .shadow}
