@@ -6,7 +6,7 @@ tags: [육아일기]
 image: /assets/img/2006-09-22-donghyun_1week/donghyun_1week.jpg
 ---
 
-![동현 1주일](/assets/img/2006-09-22-donghyun_1week/donghyun_1week.jpg{: w="700" h="400" .center .normal .shadow}
+![동현 1주일](/assets/img/2006-09-22-donghyun_1week/donghyun_1week.jpg){: w="700" h="400" .center .normal .shadow}
 
 벌써 동현이가 태어난 지 1주일이 되었네요.
 
