@@ -3,7 +3,7 @@ title: 핫케이크
 date: 2004-03-11 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: /assets/img/2004-03-11-seokhyun_hotcake/hotcake.jpg
+image: assets/img/2024-03-11-seokhyun_hotcake/hotcake.jpg
 ---
 
 석현이가 엄마를 따라 마트에 가더니 핫케이크 가루를 사 왔다.  
