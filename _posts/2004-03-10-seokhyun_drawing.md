@@ -3,7 +3,7 @@ title: 그림
 date: 2004-03-10 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-03-10-seokhyun_drawing/drawing.jpg
+image: assets/img/2004-03-10-seokhyun_drawing/drawing.jpg
 ---
 
 퇴근하고 집에 들어가니 석현이가 뭘 보라고 채근댔다.  

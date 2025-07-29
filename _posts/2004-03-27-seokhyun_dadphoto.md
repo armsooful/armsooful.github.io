@@ -3,7 +3,7 @@ title: 석현이가 찍어준 사진
 date: 2004-03-27 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-03-27-seokhyun_dadphoto/dadphoto.jpg
+image: assets/img/2004-03-27-seokhyun_dadphoto/dadphoto.jpg
 ---
 
 테크님이 말씀하신 사진을 올려봅니다.  

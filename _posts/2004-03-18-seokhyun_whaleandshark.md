@@ -3,7 +3,7 @@ title: 고래와 상어
 date: 2004-03-18 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-03-18-seokhyun_whaleandshark/whaleandshark.jpg
+image: assets/img/2004-03-18-seokhyun_whaleandshark/whaleandshark.jpg
 ---
 
 날씨가 추워졌다고 해도 점심 먹고 졸리는 것을 보니 봄은 봄인가 보다.  

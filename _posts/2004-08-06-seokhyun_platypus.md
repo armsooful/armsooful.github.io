@@ -3,7 +3,7 @@ title: 오리너구리
 date: 2004-08-06 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-08-06-seokhyun_platypus/platypus.jpg
+image: assets/img/2004-08-06-seokhyun_platypus/platypus.jpg
 ---
 
 그림책에서 얼핏 보더니 오리너구리가 마음에 들었나 보다.  

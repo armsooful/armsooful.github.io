@@ -3,7 +3,7 @@ title: 유희왕
 date: 2004-06-29 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-06-29-seokhyun_yugioh/yugioh.jpg
+image: assets/img/2004-06-29-seokhyun_yugioh/yugioh.jpg
 ---
 
 석현이가 그린 유희왕 그림을 스킨에 추가하였다.  

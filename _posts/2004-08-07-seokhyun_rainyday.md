@@ -3,7 +3,7 @@ title: 비 오는 날
 date: 2004-08-07 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-08-07-seokhyun_rainyday/rainyday.jpg
+image: assets/img/2004-08-07-seokhyun_rainyday/rainyday.jpg
 ---
 
 더위를 씻어 주는 소나기가 한바탕 내렸으면 합니다.  

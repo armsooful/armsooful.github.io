@@ -3,7 +3,7 @@ title: 크레파스 그 이후
 date: 2004-03-24 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-03-24-seokhyun_kaiba/kaiba.jpg
+image: assets/img/2004-03-24-seokhyun_kaiba/kaiba.jpg
 ---
 
 요즘 그림 그리기에 푹 빠진 석현이.  

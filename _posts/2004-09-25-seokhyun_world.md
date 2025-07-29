@@ -3,7 +3,7 @@ title: WORLD
 date: 2004-09-25 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-09-25-seokhyun_world/world.jpg
+image: assets/img/2004-09-25-seokhyun_world/world.jpg
 ---
 
 석현이가 TV를 보고 나더니 뭔가를 끄적였다.  

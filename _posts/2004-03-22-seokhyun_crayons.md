@@ -3,7 +3,7 @@ title: 크레파스
 date: 2004-03-22 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2024-03-22-seokhyun_crayons/crayons.jpg
+image: assets/img/2004-03-22-seokhyun_crayons/crayons.jpg
 ---
 
 낮과 밤이 같다는 춘분이 지나고 이제는 낮이 길어졌습니다.  
