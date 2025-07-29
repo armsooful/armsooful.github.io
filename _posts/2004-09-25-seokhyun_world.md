@@ -1,5 +1,5 @@
 ---
-title: 석현 그림 전시회
+title: WORLD
 date: 2004-09-25 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
