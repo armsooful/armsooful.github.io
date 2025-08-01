@@ -3,7 +3,7 @@ title: 예방접종을 하다
 date: 2004-06-05 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2004-06-05-vaccination/vaccination.jpeg
+image: assets/img/2004-06-05-seokhyun_vaccination/vaccination.jpeg
 ---
 
 주사를 맞고 나면 꼭 반창고를 붙여준다
