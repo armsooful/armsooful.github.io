@@ -3,7 +3,6 @@ title: 잉잉잉
 date: 2004-06-17 00:00:00 +09:00
 categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
-image: assets/img/2004-06-14-seokhyun_jihyun/jihyun1.jpeg
 ---
 
 오이밭에 고추는 뾰족한 고추  
