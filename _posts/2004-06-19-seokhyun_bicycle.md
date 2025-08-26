@@ -18,5 +18,5 @@ image: assets/img/2004-06-19-seokhyun_bicycle/bicycle1.jpg
 힘차게 페달을 밟는 모습을 보면 많이 컸구나 하는 생각이 들며 대견스럽다.  
 커져가는 자전거를 보면 세월의 흐름도 무척 빠른 것 같다.
 
-![이미지 설명](/assets/img/2004-06-14-seokhyun_bicycle/bicycle2.jpg){: w="700" h="400" .center .normal .shadow}  
+![이미지 설명](/assets/img/2004-06-19-seokhyun_bicycle/bicycle2.jpg){: w="700" h="400" .center .normal .shadow}  
 
