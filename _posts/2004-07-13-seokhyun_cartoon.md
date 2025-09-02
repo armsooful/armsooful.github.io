@@ -5,9 +5,10 @@ categories: [석현동현의 星,첫째별 석현]
 tags: [육아일기]
 ---
 
-![이미지 설명](/assets/img/2004-07-12-seokhyun_cartoon/cartoon.jpg){: w="700" h="400" .center .normal .shadow}  
+![이미지 설명](/assets/img/2004-07-13-seokhyun_cartoon/cartoon.jpg){: w="700" h="400" .center .normal .shadow}  
 
 며칠 전에 석현이에게 똑같이 해 보았다.  
-'나, 애기 아냐.''애기 아니라니깐!'  
+'나, 애기 아냐.'  
+'애기 아니라니깐!'  
 까꿍이 통하기는 커녕 마구 화를 냈다.  
 이제 유아에서 어린이가 된 것일까?아직 어린이날이 뭔지 모르는데.
