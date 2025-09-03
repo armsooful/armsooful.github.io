@@ -13,6 +13,7 @@ image: assets/img/2004-08-31-seokhyun_piano/piano1.jpg
 같이 눌러야 할 건반에 같은 색깔끼리 붙여 놓았다.  
 떼기도 쉽고 더럽혀지지도 않으니 더 좋다.
 
-이제 실전이다.피아노 치는 손가락이 너무 앙증맞다.
+이제 실전이다.  
+피아노 치는 손가락이 너무 앙증맞다.
 ![이미지 설명](/assets/img/2004-08-31-seokhyun_piano/piano2.jpg){: w="700" h="400" .center .normal .shadow}  
 
